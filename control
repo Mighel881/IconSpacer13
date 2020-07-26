@@ -1,0 +1,15 @@
+Author: ichitaso
+Maintainer: ichitaso
+Name: IconSpacer13
+Package: com.ichitaso.iconsp13
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: gsc.ipad
+Section: Tweaks
+Version: 0.0.1~beta1
+Architecture: iphoneos-arm
+Description: Moves the iPhone home screen icon vertically.
+Depiction: https://cydia.ichitaso.com/depiction/iconsp13.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13

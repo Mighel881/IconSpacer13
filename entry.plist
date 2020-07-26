@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = IconSpacerSettings;
+	cell = PSLinkCell;
+	detail = IconSpacerController;
+	icon = icon.png;
+	isController = 1;
+	label = IconSpacer13;
+    };
+}
